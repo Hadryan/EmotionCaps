@@ -6,7 +6,7 @@ Download the dataset from the Link : https://drive.google.com/drive/folders/1UHD
 
 Instructions for running the Code Notebook on Google Colab:
   
-  1) Download the EmotionCaps.ipynb file and add it to your google drive.
+  1) Clone this repository and upload the EmotionCaps.ipynb file to your google drive.
   2) Add the FER2013.csv file to you drive from the above given Link.
   4) Select GPU runtime type in Google Colab.
   3) Run Each and every tab in the notebook and you will be able to see the results.
